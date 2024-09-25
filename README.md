@@ -8,7 +8,7 @@ Este é um programa com interface gráfica desenvolvido para facilitar a convers
 - **Converter Excel para SPED:** Reverte o processo, convertendo planilhas Excel no formato esperado de arquivos SPED.
 - **Abrir arquivos automaticamente após a conversão.**
 - **Incluir fórmulas no Excel gerado, se desejado.**
-- **Data limite de uso:** O programa está disponível até 31 de outubro de 2024.
+- **Data limite de uso:** Verifique com o desenvolvedor
 
 ## Requisitos
 - Python 3.x
